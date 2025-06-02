@@ -1,6 +1,8 @@
 # Recipe Matching API
 
-Spring Boot REST API that finds recipes based on available ingredients using a smart matching algorithm.
+This project helps solve the common problem of having only a few ingredients at home and not knowing what recipes you can make with them.
+
+This is essentially a Spring Boot REST API that finds recipes based on available ingredients using a smart matching algorithm. 
 
 ## Key Features
 
